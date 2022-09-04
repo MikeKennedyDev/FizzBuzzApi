@@ -1,3 +1,10 @@
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.csproj.AssemblyReference.cache
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.AssemblyInfoInputs.cache
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.AssemblyInfo.cs
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.csproj.CoreCompileInputs.cache
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.MvcApplicationPartsAssemblyInfo.cache
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\appsettings.Development.json
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\appsettings.json
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\FizzBuzzAPi.exe
@@ -9,13 +16,6 @@ C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Microsoft.Op
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.csproj.AssemblyReference.cache
-C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.AssemblyInfoInputs.cache
-C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.AssemblyInfo.cs
-C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.csproj.CoreCompileInputs.cache
-C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.MvcApplicationPartsAssemblyInfo.cs
-C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.MvcApplicationPartsAssemblyInfo.cache
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\staticwebassets.build.json
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\staticwebassets.development.json
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\scopedcss\bundle\FizzBuzzAPi.styles.css

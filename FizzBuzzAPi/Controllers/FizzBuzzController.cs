@@ -9,7 +9,7 @@ namespace FizzBuzzAPi.Controllers
     {
         #region fields
 
-        private readonly ILogger<FizzBuzzController> _logger;
+        private readonly ILogger _logger;
 
         #endregion fields
 
@@ -26,11 +26,16 @@ namespace FizzBuzzAPi.Controllers
 
         // GET all action
 
-        // GET by Id action
         [HttpGet]
         public ActionResult<FizzBuzz> Get()
         {
             return new FizzBuzz();
+        }
+
+        [HttpGet("{fizz}/{buzz}")]
+        public ActionResult<string[]> GetFizz(string fizz, string buzz)
+        {
+            return new FizzBuzz(fizz, buzz).FizzBuzzList;
         }
 
         // POST action

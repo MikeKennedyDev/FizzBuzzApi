@@ -24,25 +24,19 @@ namespace FizzBuzzAPi.Controllers
 
         #region Methods
 
-        // GET all action
-
         [HttpGet]
-        public ActionResult<FizzBuzz> Get()
+        public ActionResult<string[]> Get()
         {
-            return new FizzBuzz();
+            _logger.LogInformation("Standard Get with no parameters");
+            return new FizzBuzz().FizzBuzzList;
         }
 
         [HttpGet("{fizz}/{buzz}")]
         public ActionResult<string[]> GetFizz(string fizz, string buzz)
         {
+            _logger.LogInformation($"Get list with {fizz}, {buzz} as fizz, buzz");
             return new FizzBuzz(fizz, buzz).FizzBuzzList;
         }
-
-        // POST action
-
-        // PUT action
-
-        // DELETE action
 
         #endregion Methods
     }

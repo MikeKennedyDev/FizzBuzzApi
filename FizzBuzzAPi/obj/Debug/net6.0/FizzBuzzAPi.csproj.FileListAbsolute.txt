@@ -25,3 +25,13 @@ C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\refint\FizzB
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.pdb
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\FizzBuzzAPi.genruntimeconfig.cache
 C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\obj\Debug\net6.0\ref\FizzBuzzAPi.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Programming\FizzBuzzApi\FizzBuzzAPi\FizzBuzzAPi\bin\Debug\net6.0\Serilog.Sinks.File.dll
